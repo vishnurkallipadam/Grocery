@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "slno": "1",
+            "name": "Rice",
+            "quantity": "10",
+            "unit": "kilogram",
+            "department": "Cooking",
+            "notes": "white rice"
+        },
+        {
+            "slno": "2",
+            "name": "Oil",
+            "quantity": "5",
+            "unit": "litre",
+            "department": "cooking",
+            "notes": "sunflower oil"
+        },
+        {
+            "slno": "3",
+            "name": "Apple",
+            "quantity": "1",
+            "unit": "kilogram",
+            "department": "fruits",
+            "notes": "red apple"
+        },
+        {
+            "slno": "4",
+            "name": "Oranges",
+            "quantity": "1",
+            "unit": "kilogram",
+            "department": "fruits",
+            "notes": "Fresh"
+        },
+        {
+            "slno": "5",
+            "name": "Tomato",
+            "quantity": "2",
+            "unit": "kilogram",
+            "department": "vegetable",
+            "notes": "Oraganic"
+        },
+        {
+            "slno": "6",
+            "name": "Egg",
+            "quantity": "2",
+            "unit": "dozen",
+            "department": "egg",
+            "notes": "duck"
+        },
+        {
+            "slno": "7",
+            "name": "Carrot",
+            "quantity": "1",
+            "unit": "kilogram",
+            "department": "vegetable",
+            "notes": "Fresh"
+        },
+        {
+            "slno": "8",
+            "name": "atta Flour",
+            "quantity": "1",
+            "unit": "kilogram",
+            "department": "Flour",
+            "notes": "aashirvad"
+        },
+        {
+            "slno": "9",
+            "name": "Rice Flour",
+            "quantity": "1",
+            "unit": "kilogram",
+            "department": "Flour",
+            "notes": "Double Hourse"
+        },
+        {
+            "slno": "10",
+            "name": "Chilly Powder",
+            "quantity": "250",
+            "unit": "Gram",
+            "department": "masala powder",
+            "notes": "Eastern"
+        }
+    ]
+}
